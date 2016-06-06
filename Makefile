@@ -1,6 +1,3 @@
-Execute: Build
-	./main
-
 Build: main.o sq.o
 	gcc sq.o main.o -o main -lm
 

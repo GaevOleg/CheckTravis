@@ -1,6 +1,5 @@
 language: c
 script:
 - make
-- 1 2 1
 - cd test_F
 - make
