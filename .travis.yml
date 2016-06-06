@@ -1,0 +1,5 @@
+language: c
+script:
+-cd test_F
+-make
+-make clean
